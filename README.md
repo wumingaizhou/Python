@@ -1,2 +1,2 @@
-# JS
-JS的一些练习
+# Python
+Python的一些练习
