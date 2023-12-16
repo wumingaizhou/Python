@@ -20,6 +20,10 @@ def main_ul():
     elif input_1 == 4:
         print("""
     你已退出""")
+    else:
+        print("""
+    输入错误，请重新输入""")
+        main_ul()
 
 # 2.查询钱函数
 def CheckMoney():
